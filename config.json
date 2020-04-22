@@ -1,0 +1,30 @@
+{
+
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/presence",
+    "production_uri": "mysql://root:@localhost/presence",
+    "fb_url": "https://web.facebook.com/sadiqulislamshishir71",
+    "git_url": "https://github.com/sadiqulislam",
+    "twitter_url": "https://twitter.com/ShishiR102",
+    "blog_name": "Presence's",
+    "sub_heading": "A Blog Created By ShishiR",
+    "gmail_user": "sadiqul15-7271@diu.edu.bd",
+    "gmail_password": "ixaqaxxrlvzmucyo",
+    "about_me": "Hello, I am MD.Sadiqul Islam Shishir. I Am a Professional Graphic,Web And Web Developer. I Have Done Bsc. In Computer Science And Engineering From Daffodil International University. My Experties Are Python, Flask and Django Framework.",
+    "no_of_post": 5,
+    "signin_img": "shishir.jpg",
+    "admin_user": "sishishir2015@gmail.com",
+    "admin_pass": "123456789"
+
+
+  }
+
+
+
+
+
+
+
+}
